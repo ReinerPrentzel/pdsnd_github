@@ -19,5 +19,8 @@ bikeshare-starter.zip       (zip file containing inital project files)
     new_york_city.csv       (csv file contain project data)
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+github project that was forked for this work:
+https://github.com/udacity/pdsnd_github
+
+thx udacity for the preparation! :-)
 
