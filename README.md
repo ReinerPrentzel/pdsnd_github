@@ -14,7 +14,9 @@ It is used to track the learning status and to check if course contents was unde
 The contents of bikeshare project is used for this project.
 
 ### Files used
-Include the files used
+bikeshare-starter.zip       (zip file containing inital project files)
+    bikeshare_starter.py    (python script containing project code)
+    new_york_city.csv       (csv file contain project data)
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
