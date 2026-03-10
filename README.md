@@ -7,7 +7,11 @@ Include the date you created this project and README file.
 Replace the Project Title
 
 ### Description
-Describe what your project is about and what it does
+## Main Purpose
+This is the final project for the udacity git course.
+It is used to track the learning status and to check if course contents was understood.
+## Contents used
+The contents of bikeshare project is used for this project.
 
 ### Files used
 Include the files used
