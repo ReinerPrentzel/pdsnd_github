@@ -4,6 +4,9 @@
 ## Project Title
 **udacity course project - bikeshare**
 
+## Author (of this fork of the project)
+Reiner Prentzel
+
 ## Description
 ### Main Purpose
 This is the _final_ project for the udacity git course.
