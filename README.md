@@ -1,13 +1,13 @@
-### March 10th, 2026
+### **March 10th, 2026**
 
-### udacity course project - bikeshare
+### **udacity course project - bikeshare**
 
 ### Description
 ## Main Purpose
-This is the final project for the udacity git course.
+This is the _final_ project for the udacity git course.
 It is used to track the learning status and to check if course contents was understood.
 ## Contents used
-The contents of bikeshare project is used for this project.
+The contents of _bikeshare project_ is used for this project.
 
 ### Files used
 bikeshare-starter.zip       (zip file containing inital project files)
@@ -18,5 +18,5 @@ bikeshare-starter.zip       (zip file containing inital project files)
 github project that was forked for this work:
 https://github.com/udacity/pdsnd_github
 
-thx udacity for the preparation! :-)
+thx **udacity** for the preparation! :-)
 
